@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ScoreCard = () =>{
+const ScoreCard = (props) =>{
 
 return(
 
     <div>
-        This is score card
+        This is score card {props.name}
     </div>
 )
 
