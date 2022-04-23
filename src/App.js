@@ -5,11 +5,11 @@ function App() {
     <div className="App">
       <h1>Good morning Bro!!! </h1>
       <ScoreCard  name = "Pavan"/>
-      <ScoreCard />
-      <ScoreCard />
-      <ScoreCard />
-      <ScoreCard />
-      <ScoreCard />
+      <ScoreCard name = "Chinna"/>
+      <ScoreCard name = "Santosh"/>
+      <ScoreCard name = "Satya"/>
+      <ScoreCard name= "Sai"/>
+      <ScoreCard name = "Nagarjuna"/>
 
     </div>
   );
